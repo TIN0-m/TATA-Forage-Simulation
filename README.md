@@ -63,6 +63,25 @@ This is the primary challenge. Regulations like GDPR (Europe), POPIA (South Afri
 
 - Non-compliance can lead to significant fines, reputational damage, and legal complications.
 
+Once i had all the key aspects that i wanted to cover i then drafted the following email summary :
+
+Good day, I have gone through the email and I have decided to lay out the following goals to ensure that the integration of TechCorp's IAM solution is seamless and fruitful:
+
+Ensuring first and foremost that all the employees understand what is going to happen and ensure proper training to provide ease of use and also allow for easy onboarding and offboarding for any company size changes that may occur, as well as to have an industry standard they use, seeing the span over multiple countries.  
+
+Integration of existing systems with cloud services, this is a crucial process. to ensure that the business flow has no disruptions and is very secure moving the systems to cloud services can lead to better security controls and maintenance. The use of virtualization makes it simpler to allow their current systems to be integrated into cloud systems. This puts TechCorp in a good position as the have international reach so accessing the systems from the cloud can allow centralization of security. Access control management will also be easier to implement with cloud service integration.  
+
+Compliance and governance will be a bit tricky to handle as each country has its own regulatory data standards, which TechCorp will have to adhere to. This isn't much of a challenge as long as the manage to not infringe on any rules that they have set.
+
+# Task Three
+
+This part of the simulation was a build on to Task Two were i had to build an IAM solution specifically for TechCorp.
+
+# Objective 
+
+i was tasked to create detailed IAM solution designs in a PDF or Word document that directly address the two focus areas: enhancing user lifecycle management and strengthening access control mechanisms.
+[TechCorp.docx](https://github.com/user-attachments/files/21161315/TechCorp.docx)
+
 
 
 
