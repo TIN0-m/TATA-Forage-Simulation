@@ -132,6 +132,11 @@ This brings the job simulation to an end, upon this i was provided with a certif
 - I understand IAM principles, cybersecurity best practices, and strategic alignment with business objectives.
 - I can deliver comprehensive documentation and presentations, showcasing the ability to communicate complex technical concepts effectively.
 
+</a>
+  <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/gmf3ypEXBj2wvfQWC_ifobHAoMjQs9s6bKS_mvw8oKQbrDajKM8Sh_1751729226874_completion_certificate.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/-TATA-003366?&style=for-the-badge" alt="TATA Project Certificate" />
+</a>
+
 
 
 
