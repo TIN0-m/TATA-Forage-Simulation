@@ -26,3 +26,37 @@ Below is a copy of the Email.
 ![Screenshot 2025-07-10 110628](https://github.com/user-attachments/assets/ccb7b82c-a2f0-4d26-9b24-f3f767bc2076)
 ![Screenshot 2025-07-10 110718](https://github.com/user-attachments/assets/daf7f7b8-e5fa-47da-9b68-c974d119fece)
 
+# Thinking process and steps taken :
+
+A lot of this did not requirement much reasearch as i already had a good understanding of what IAM was and how to bring it in to a business environment, the first things i wanted to focus on was :
+
+- User Adoption and Training:   
+I wanted to make sure that during this process the business still had a level of efficiency and could still go about as it usually does. A well-designed IAM solution is only as effective as its adoption by users. Good role-based training will minimize confusion and reduce helpdesk tickets
+
+- Ease of Use and Efficiency:  
+Prioritizing ease of use, especially for daily tasks like logging in or requesting access is vital, failure can introduce new security risks.
+
+- Onboarding/Offboarding:  
+Automating user provisioning and de-provisioning based on HR systems will reduces manual effort, improve security and support agile business growth or contraction.
+
+- Industry Standard for International Reach:   
+With TechCorp's international presence, a unified IAM solution and consistent security policies across all regions will simplify management, reduce complexity for users who might work across borders, strengthen the overall security posture by eliminating fragmented access controls and help in achieving consistent compliance.
+
+The second thing that i wanted to focus on was integrating existing systems with Cloud Services and these were the key points to focus on :
+
+- No Disruptions:   
+The transition must be well planned to avoid downtime or service interruptions. A phased approach, thorough testing, and robust rollback plans will be essential.
+
+- Improved Security Controls & Maintenance in Cloud:   
+ Cloud providers offer advanced security features, regular updates, and centralized management that can surpass what many on-premises setups can achieve, especially for maintaining the IAM solution itself.
+
+- Virtualization:   
+Virtualization can simplify the integration process by abstracting the underlying hardware and making systems more portable and manageable.
+
+- Centralization of Security for International Reach:    
+A centralized cloud IAM solution allows for consistent rules applied globally centralized, auditing and logging, Reduced attack surface complexity and most importantly they come with cloud applications and services, simplifying access policies, single sign-on (SSO), and multi-factor authentication (MFA) across the entire cloud solution
+
+
+
+
+
