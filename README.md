@@ -80,7 +80,13 @@ This part of the simulation was a build on to Task Two were i had to build an IA
 # Objective 
 
 i was tasked to create detailed IAM solution designs in a PDF or Word document that directly address the two focus areas: enhancing user lifecycle management and strengthening access control mechanisms.
+
+From the response that i provided to the email i decided that a cloud solution like AWS would be the most ideal in getting an IAM solution for a company like TechCorp. The document below states the reasons why this would be the best, i have also provided images of the document :
+
 [TechCorp.docx](https://github.com/user-attachments/files/21161315/TechCorp.docx)
+
+<img width="1014" height="836" alt="Screenshot 2025-07-10 131519" src="https://github.com/user-attachments/assets/8664528e-082e-437f-b891-db19a0a78dd8" />
+<img width="1015" height="836" alt="Screenshot 2025-07-10 131612" src="https://github.com/user-attachments/assets/09ed435b-3e39-4fb9-951f-efb9331eecfe" />
 
 
 
