@@ -9,7 +9,7 @@ Before i get in to how i did this, id like to express that these resouces that y
 
 # Task two :
 
-Scope :
+Scope:    
 The project begins with a virtual meeting with your colleagues, Priya (IAM architect) and Ravi (IAM business analyst). Together, we are the experts entrusted with enhancing TechCorp Enterprises' cybersecurity.
 The team's goal is to assess TechCorp's readiness for IAM implementation, just as you would in a genuine consulting engagement.
 
@@ -79,7 +79,9 @@ This part of the simulation was a build on to Task Two were i had to build an IA
 
 # Objective 
 
-i was tasked to create detailed IAM solution designs in a PDF or Word document that directly address the two focus areas: enhancing user lifecycle management and strengthening access control mechanisms.
+I was tasked to create detailed IAM solution designs in a PDF or Word document that directly address the two focus areas: enhancing user lifecycle management and strengthening access control mechanisms.
+
+# Think process
 
 From the response that i provided to the email i decided that a cloud solution like AWS would be the most ideal in getting an IAM solution for a company like TechCorp. The document below states the reasons why this would be the best, i have also provided images of the document :
 
@@ -87,6 +89,49 @@ From the response that i provided to the email i decided that a cloud solution l
 
 <img width="1014" height="836" alt="Screenshot 2025-07-10 131519" src="https://github.com/user-attachments/assets/8664528e-082e-437f-b891-db19a0a78dd8" />
 <img width="1015" height="836" alt="Screenshot 2025-07-10 131612" src="https://github.com/user-attachments/assets/09ed435b-3e39-4fb9-951f-efb9331eecfe" />
+
+# Task Four
+
+This was the final task i had was to develop a comprehensive IAM platform implementation plan for TechCorp
+
+# Objective 
+
+I had to create a PowerPoint presentation that outlines the detailed implementation plan for TechCorp's IAM platform. This plan should provide a comprehensive roadmap for setting up the platform successfully.
+
+# Think Process 
+
+The first thing i decided to do was create a time-line, I decided that a period of three months would work best to accomplish this goal. These Three months would be divided into three main phases:
+- implementation - This phase focuses on setting up and implementing the AWS platform to meet TechCorp's security and access management needs.
+- Testing - This phase focuses on thoroughly testing the implemented IAM platform to ensure its functionality, security, and reliability.
+- Training - This phase focuses on preparing TechCorp's teams for efficient use of the newly implemented IAM platform.
+- an evaluation period were we would take note of any problems we may have missed and see if this was indeed the perfect solution for TechCorps needs.
+  
+ I decided that for the three main phases i had to account for the following key points :
+ - Key deliveries - These were to be the take aways from the phase.
+ - Objectives - This is what the phase had to accomplish.
+ - Activities - The tasks that would be done to accomplish the objectives.
+ - Challenges - Any problems that could occur doing the phase.
+ - Success criteria - The baseline to determine if the phase was implemented correctly.
+
+Once i had all this noted down i decided it was time to get into the first stage which was implementation, i will provide an image of the work that was done.
+<img width="1919" height="1079" alt="Screenshot 2025-07-10 200407" src="https://github.com/user-attachments/assets/ec13c716-95ad-40a0-8e8e-52f441230040" />
+
+Then it was onto the testing phase
+<img width="1919" height="1079" alt="Screenshot 2025-07-10 200417" src="https://github.com/user-attachments/assets/95aa269f-2714-4aa0-b473-9c467373c5c3" />
+
+Then lastly it was the testing phase 
+<img width="1919" height="1079" alt="Screenshot 2025-07-10 200438" src="https://github.com/user-attachments/assets/0bad94be-41e1-49ec-b891-e2e9923cb352" />
+
+The entire presentation will be attached below, but these were the key take aways from the task.
+[IAM-Solution-for-TechCorp-Enhancing-Security-Through-AWS 3.pptx](https://github.com/user-attachments/files/21168685/IAM-Solution-for-TechCorp-Enhancing-Security-Through-AWS.3.pptx)
+
+# Conclusion :
+This brings the job simulation to an end, upon this i was provided with a certification of completion and can confidently say that i am compitent in the following :
+
+- I can do tasks involving identity and access management (IAM) for Tata Consultancy Services, collaborating with a Cybersecurity Consulting team.
+- I understand IAM principles, cybersecurity best practices, and strategic alignment with business objectives.
+- I can deliver comprehensive documentation and presentations, showcasing the ability to communicate complex technical concepts effectively.
+
 
 
 
